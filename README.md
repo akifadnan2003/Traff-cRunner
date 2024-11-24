@@ -78,6 +78,4 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to copy and paste this updated README content into your `README.md` file. Let me know if there's anything else you need help with! 😊
