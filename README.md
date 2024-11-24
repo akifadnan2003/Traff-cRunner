@@ -1,8 +1,5 @@
-Got it! Let's update the README to include the task division between Akif Adnan and Sariea Almoughrabi. Here's an updated version:
 
----
-
-# Unity Car Game
+### Traffic Racer
 
 ## Description
 This Unity project is a 2D car game where the player controls a car to avoid obstacles and enemies while collecting power-ups and reaching checkpoints. The game features enemy collisions, health management, and a game over/finish line system with TextMeshPro for UI elements.
