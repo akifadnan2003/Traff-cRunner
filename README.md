@@ -18,7 +18,7 @@ Traffic Runner is a 2D car game developed in Unity where the player navigates th
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/traffic-runner.git
+   git clone https://github.com/akifadnan2003/traffi-crunner.git
    ```
 2. **Navigate to the project directory:**  
    Open the cloned repository on your system.  
