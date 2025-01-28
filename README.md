@@ -1,7 +1,7 @@
 # Traffic Runner
 
 ## Game Link 
-[Play Traffic Runner](https://mgbeyyy.itch.io/traffic-runner)
+[Play Traffic Runner](https://mgbeyyy.itch.io/traffic-runner1)
 
 ## Description
 Traffic Runner is a 2D car game developed in Unity where the player navigates through traffic, avoiding obstacles and enemies while collecting coins and reaching checkpoints. The game features enemy collisions, health management, and a game over/finish line system with TextMeshPro for UI elements.
