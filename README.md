@@ -34,63 +34,45 @@ Traffic Runner is a 2D car game developed in Unity where the player navigates th
 - Press the Play button in the Unity Editor to start the game.
 
 ### Player Controls
-- Use the arrow keys or WASD keys to control the car's movement.
+- Use the arrow keys to control the car's movement.
 
 ### Game Mechanics
 - Avoid obstacles and enemies to maintain health.
 - Collect coins to gain points.
-- Reach checkpoints to progress in the game.
+- Go as far as you can
 
-## Features
-
-- **Collision Detection:**  
-  Player car collides with enemies and obstacles, reducing health.
-
-- **Health Management:**  
-  Player health decreases upon collision, leading to game over if health reaches zero.
-
-- **Game Over and Finish Line:**  
-  Displays appropriate messages using TextMeshPro when the player collides or finishes the race.
-
-- **Enemy Movement:**  
-  Enemies move downward continuously and reset to the top when off-screen.
-
-- **Track Movement:**  
-  Tracks move downward to give the illusion of forward movement.
 
 ## Task Division
 
 ### Akif Adnan - 20360859106
 
-- **PlayerController Script:**  
-  - Implement and maintain the player's movement logic.  
-  - Handle player collisions with obstacles and enemies.  
-  - Manage player health and trigger game over conditions.  
-  - Display game over messages using TextMeshPro.
+- **Main Menu:**  
+  - Implement the logo, options menu, and the volume slider functionality.
+  - Add functionality for the gameplay button to transition to the first gameplay scene.
 
-- **Track Movement:**  
-  - Develop and manage the logic to move the track objects downward.  
-  - Ensure seamless looping of track pieces.
+- **Pause Menu:**  
+  - Implement pause detection  and the pause menu UI.
+  - Add the return-to-main-menu functionality in the pause menu.
+  - Ensure the background is dimmed when the pause menu is open.
 
-- **UI Integration:**  
-  - Integrate TextMeshPro for displaying messages.  
-  - Set up the `gameOverText` UI element and ensure it updates correctly.
+- **Animations:**  
+  - Set up the Animation Controller for the car drift and coins.
 
 ### Sariea Almoughrabi - 21392380222
 
-- **EnemyManager Script:**  
-  - Implement and manage enemy spawning logic.  
-  - Handle the destruction of enemies and update enemy count.  
-  - Stop enemy spawning when the game is over or when the player reaches the finish line.
+- **Sound and Music:**  
+  - Add sound effects to the game for at least 2 game events (e.g., car collision, item collection).
+  - Implement the background music that continues seamlessly across the main menu and gameplay scenes.
 
-- **FinishLine Script:**  
-  - Develop the logic for detecting when the player crosses the finish line.  
-  - Display the game finished message using TextMeshPro.
+- **GamePlay Features:**  
+  - Implement the logic for player and car spawning.
+  - Adjust car speeds based on gameplay.
+  - Implement coin collection and coin addition animation..
 
-- **Power-Ups and Checkpoints:**  
-  - Implement the logic for power-ups and checkpoints.  
-  - Manage triggers for collecting power-ups and reaching checkpoints.  
-  - Update player points upon collecting power-ups.
+- **Game Logic:**  
+  - Implement the functionality to ensure smooth player movement and interactions with the environment.
+  - Adjust the boundaries of the game world and make necessary tweaks to ensure smooth gameplay.
+
 
 ## Contributing
 Contributions are welcome!  
