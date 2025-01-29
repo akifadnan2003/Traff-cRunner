@@ -46,32 +46,23 @@ Traffic Runner is a 2D car game developed in Unity where the player navigates th
 
 ### Akif Adnan - 20360859106
 
-- **Main Menu:**  
-  - Implement the logo, options menu, and the volume slider functionality.
-  - Add functionality for the gameplay button to transition to the first gameplay scene.
+- **Animaysonlar: 30x**  
 
-- **Pause Menu:**  
-  - Implement pause detection  and the pause menu UI.
-  - Add the return-to-main-menu functionality in the pause menu.
-  - Ensure the background is dimmed when the pause menu is open.
+- **Asenkronnizasyon: 10x**  
 
-- **Animations:**  
-  - Set up the Animation Controller for the car drift and coins.
+- **Ses ve Muzik: 10x**
+  
+- **Game Over Menusu: 10x**  
 
 ### Sariea Almoughrabi - 21392380222
 
-- **Sound and Music:**  
-  - Add sound effects to the game for at least 2 game events (e.g., car collision, item collection).
-  - Implement the background music that continues seamlessly across the main menu and gameplay scenes.
+- **Ana Menu: 30x**  
 
-- **GamePlay Features:**  
-  - Implement the logic for player and car spawning.
-  - Adjust car speeds based on gameplay.
-  - Implement coin collection and coin addition animation..
+- **Duraklama Menu: 20x**  
 
-- **Game Logic:**  
-  - Implement the functionality to ensure smooth player movement and interactions with the environment.
-  - Adjust the boundaries of the game world and make necessary tweaks to ensure smooth gameplay.
+- **Ses ve Muzik: 10x**
+
+- **Logo: 10x**
 
 
 ## Contributing
