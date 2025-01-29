@@ -2,6 +2,7 @@
 
 ## Game Link 
 [Play Traffic Runner](https://mgbeyyy.itch.io/traffic-runner1)
+
 NOT: oyun mobil boyutunda tasarlandığından oyunun telefon üzerinden açılmalıdır
 
 ## Description
